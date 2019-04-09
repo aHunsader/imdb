@@ -1,5 +1,5 @@
 # imdb
-IMDb website for CS 143.
+IMDb website
 -Alex Hunsader
 -Lexie Kemp
 
